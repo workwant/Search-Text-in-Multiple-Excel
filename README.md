@@ -1,6 +1,7 @@
 # Search-Text-in-Multiple-Excel
 search text in multiple Excel files in Windows
-
+###
+![Screenshot](screenshot.jpg)
 ### Handling several documents on your computer can often be a difficult task, especially when you want to identify a particular file among an outstanding amount of similar ones.
 
 ### However, specialized apps such as Search-Text-in-Multiple-Excel can help you with this task if you're trying to search an Excel file by its contents. It is worth mentioning that this application won't work unless you run it as an Administrator.
